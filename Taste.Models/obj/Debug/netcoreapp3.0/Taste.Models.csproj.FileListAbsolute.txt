@@ -1,0 +1,8 @@
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.deps.json
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.Models\bin\Debug\netcoreapp3.0\Taste.Models.pdb
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.csprojAssemblyReference.cache
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.AssemblyInfoInputs.cache
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.AssemblyInfo.cs
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.Models\obj\Debug\netcoreapp3.0\Taste.Models.pdb

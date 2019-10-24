@@ -1,0 +1,13 @@
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.deps.json
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.dll
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.pdb
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Utility.dll
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Models.pdb
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Utility.pdb
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.csprojAssemblyReference.cache
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.AssemblyInfoInputs.cache
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.AssemblyInfo.cs
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.csproj.CopyComplete
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.dll
+C:\Users\NicoleCampbell\Downloads\Taste-master (1)\Taste-master\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.pdb
